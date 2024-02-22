@@ -1,5 +1,5 @@
 # Cellular Automatons in Python
-Experimentation of cellular automatons and globally "emergent phenomenas" via NumPy and Pygame.
+Experimentation of cellular automatons and globally "emergent phenomenas" via NumPy and Pygame. Studies on colorization and patterns on a hexagonal mesh.
 <br>
 <br>
 ![image](https://github.com/aent0n/CELLAutomataPYTHON/assets/116871473/415f28a0-76b3-4ee3-b9f9-b2249fc06b5f)
